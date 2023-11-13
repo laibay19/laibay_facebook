@@ -1,0 +1,69 @@
+.body{
+    background-color: #f0f2f5;
+    padding: 120px;
+}
+
+.hadstylling{
+ color: #0866ff;
+ font-size: 55px;
+ font-weight: 500px;
+ display: flex;
+ align-items: center;
+}
+.foam{
+   
+    padding: 50px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px gray;
+    width: 400px;
+}
+
+.input{
+    width: 280px;
+    height: 56px;
+    padding: 10px;
+    font-size: 19px;
+    border-radius: 9px;
+    border: 0.5px;
+    border: 2px solid #1877f2;
+    outline: none;
+}
+.login{
+    background-color:#1877f2 ;
+    width: 287px;
+    border: none;
+    height: 45px;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+   
+}
+.acoount{
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+   
+}
+
+.create{
+    background-color: #42b72a;
+    border: none;
+    height: 40px;
+    width: 187px;
+    border-radius: 10px;
+    color: white;
+    
+
+}
+.password{
+    display: flex;
+    justify-content: center;
+}
+
+.parastylling{
+    font-size: 30px;
+}
